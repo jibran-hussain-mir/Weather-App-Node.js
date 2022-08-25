@@ -4,7 +4,7 @@
 
 
 
-
+console.log('hi')
 const weatherInfo=document.querySelector('form');
 const place=document.querySelector('input');
 weatherInfo.addEventListener('submit',(e)=>{
